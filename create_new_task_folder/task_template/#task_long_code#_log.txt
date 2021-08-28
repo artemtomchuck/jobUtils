@@ -48,7 +48,7 @@ DEVELOPMENT WORKFLOW STEPS
 
   check if the relevant builds are ok after your changes
 
-  document your changes using "what was done" template in output_of_task\#ticket_short_code#_release_note.txt
+  document your changes using "what was done" template in output_of_task\release_note.txt
 
   move task to code review
 
