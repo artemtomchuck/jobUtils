@@ -1,0 +1,70 @@
+
+
+##### Requirements analysis BEGIN #####
+
+
+##### Requirements analysis END #####
+
+
+
+
+DEVELOPMENT WORKFLOW STEPS
+  analyze
+    read the whole task description. Also you can read task comments if there are not too many
+
+    issue type:
+      when story
+        undestand - what is the feature you need to implement?
+
+        is there any functional testcase?
+      
+      when bug
+        undestand - what is the issue/bug? How to solve the issue/fix the bug?
+
+        reproduce the issue/bug
+
+  environment setup 
+    create environment for development/testing
+
+    document environments into environments folder of this task
+
+  think about design and decide what is the best way to handle requirements from task
+
+  actual work - implement requirements from task
+
+  make sure that the whole scope of task is completed and in your implementation nothing is missed from requirements
+  
+  test your work
+  
+  make sure that the whole above content of this file is handled and nothing left
+
+  review your changes in version constrol system (use command like "check for modification") before you commit
+
+  commit your changes to version control system
+    make sure that every required changes were committed (you may need to commit into few version control system repositories)
+
+  merge your changes into every required branch (typically you should have your changes in trunk and maybe in few other branches)
+    make sure that every change type was merged from your development branch into target required branch
+
+  check if the relevant builds are ok after your changes
+
+  document your changes using "what was done" template in output_of_task\#ticket_short_code#_release_note.txt
+
+  move task to code review
+
+  waiting code review/testing feedback
+
+
+
+
+
+
+
+
+
+
+
+
+handled
+-------------------------------------------------------------------------------------------------
+

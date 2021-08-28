@@ -1,0 +1,15 @@
+
+*What was done*
+todo_provide
+* explanataion of behavior?
+* fix?
+* new functionality?
+
+*Testing*
+todo_provide
+* how exactly was tested and which testcase was used?
+* what was the testing outcome?
+
+*Builds*
+todo_provide for each required version if applicable (usually trunk is mandatory. Trunk is not mandatory only if change was already in trunk and in the scope of ticket was merged to branch - meaning that ticket did not have trunk changes)
+
