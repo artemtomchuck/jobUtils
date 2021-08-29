@@ -14,12 +14,12 @@ DEVELOPMENT WORKFLOW STEPS
 
     issue type:
       when story
-        undestand - what is the feature you need to implement?
+        understand - what is the feature you need to implement?
 
         is there any functional testcase?
       
       when bug
-        undestand - what is the issue/bug? How to solve the issue/fix the bug?
+        understand - what is the issue/bug? How to solve the issue/fix the bug?
 
         reproduce the issue/bug
 
