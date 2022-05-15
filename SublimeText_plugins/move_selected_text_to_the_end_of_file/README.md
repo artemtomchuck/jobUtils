@@ -27,7 +27,7 @@ You can map the command of current plugin to some keyboard combination (e.g. to 
 
 # Deployment
 * Open folder "C:\Users\username\AppData\Roaming\Sublime Text\Packages\User" and copy here move_selected_text_to_the_end_of_file.py file.
-* Open Sublime Text -> Preferences -> Key Bindings. Modify "Default (Windows).sublime-keymap" file to map some keyboard combination to new command. E.g. in order to map for F1 add the following entry:
+* Open Sublime Text -> Preferences -> Key Bindings. Modify "Default (Windows).sublime-keymap" (in User folder) file to map some keyboard combination to new command. E.g. in order to map for F1 add the following entry:
 <pre>
 { "keys": ["f1"], "command": "move_selected_text_to_the_end_of_file"}
 </pre>
